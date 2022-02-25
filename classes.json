@@ -1,0 +1,71 @@
+{
+    "__background__":   0,
+
+    "text":         1,
+    "junction":     2,
+    "crossover":    3,
+    "terminal":     4,
+    "gnd":          5,
+    "vss":          6,
+
+    "voltage.dc":       7,
+    "voltage.ac":       8,
+    "voltage.battery":  9,
+
+    "resistor":             10,
+    "resistor.adjustable":  11,
+    "resistor.photo":       12,
+
+    "capacitor.unpolarized":    13,
+    "capacitor.polarized":      14,
+
+    "inductor":     15,
+    "transformer":  16,
+
+    "diode":                17,
+    "diode.light_emitting": 18,
+    "diode.thyrector":      19,
+    "diode.zener":          20,
+
+    "diac":                 21,
+    "triac":                22,
+    "thyristor":            23,
+    "varistor":             24,
+
+    "transistor.bjt":   25,
+    "transistor.fet":   26,
+    "transistor.photo": 27,
+
+    "operational_amplifier":                    28,
+    "operational_amplifier.schmitt_trigger":    29,
+    "optocoupler":                              30,
+
+    "integrated_circuit":                   31,
+    "integrated_circuit.ne555":             32,
+    "integrated_circuit.voltage_regulator": 33,
+   
+    "xor":  34,
+    "and":  35,
+    "or":   36,
+    "not":  37,
+    "nand": 38,
+    "nor":  39,
+
+    "probe.current": 40,
+    "probe.voltage": 41,
+
+    "switch":   42,
+    "relay":    43,
+
+    "socket":   44,
+    "fuse":     45,
+
+    "speaker":      46,
+    "motor":        47,
+    "lamp":         48,
+    "microphone":   49,
+    "antenna":      50,
+    "crystal":      51,
+
+    "unknown":  52
+}
