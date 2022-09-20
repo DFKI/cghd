@@ -44,11 +44,11 @@ Segmentation images are available for some samples and bear the same resolution 
 For some images, there are also netlist files available, which are stored in the [ASC](http://ltwiki.org/LTspiceHelp/LTspiceHelp/Spice_Netlist.htm) format.
 
 ## Current state
-The dataset ist still beeing extended and this repostiry is currently under construction. If you are interested in this domain and would like to contribute, please write an email to: johannes.bayer@dfki.de
+The dataset ist still beeing extended and this repository is currently under construction. If you are interested in this domain and would like to contribute, please write an email to: johannes.bayer@dfki.de
 
 ## Citation
 
-If you use this dataset for scientific publications, please consider citing us as as follows:
+If you use this dataset for scientific publications, please consider citing us as follows:
 
 ```
 @inproceedings{thoma2021public,
